@@ -1,0 +1,12 @@
+[
+  { "id": 21, "name": "Carter Turner", "score": "A+", "percentage": 81 },
+  { "id": 22, "name": "Isabella Evans", "score": "A+", "percentage": 92 },
+  { "id": 23, "name": "Owen Mitchell", "score": "A+", "percentage": 87 },
+  { "id": 24, "name": "Ella Turner", "score": "A+", "percentage": 98 },
+  { "id": 25, "name": "Mason Johnson", "score": "A+", "percentage": 84 },
+  { "id": 26, "name": "Aiden Smith", "score": "A+", "percentage": 99 },
+  { "id": 27, "name": "Sofia Brown", "score": "A", "percentage": 79 },
+  { "id": 28, "name": "Liam Davis", "score": "A+", "percentage": 94 },
+  { "id": 29, "name": "Harper Moore", "score": "A-", "percentage": 66 },
+  { "id": 30, "name": "Ethan Harris", "score": "A-", "percentage": 65 }
+]

@@ -1,0 +1,12 @@
+[
+  { "id": 11, "name": "Ryan Lee", "score": "A", "percentage": 70 },
+  { "id": 12, "name": "Olivia Taylor", "score": "A", "percentage": 75 },
+  { "id": 13, "name": "Daniel Clark", "score": "A-", "percentage": 68 },
+  { "id": 14, "name": "Grace Lewis", "score": "A+", "percentage": 93 },
+  { "id": 15, "name": "Jacob Hall", "score": "A", "percentage": 79 },
+  { "id": 16, "name": "Ava Baker", "score": "A+", "percentage": 96 },
+  { "id": 17, "name": "Matthew Turner", "score": "A+", "percentage": 83 },
+  { "id": 18, "name": "Chloe Wright", "score": "A+", "percentage": 89 },
+  { "id": 19, "name": "Tyler Martin", "score": "A-", "percentage": 66 },
+  { "id": 20, "name": "Mia Cooper", "score": "A+", "percentage": 97 }
+]

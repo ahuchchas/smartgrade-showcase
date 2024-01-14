@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "John Smith", "score": "A+", "percentage": 85 },
+  { "id": 2, "name": "Alice Johnson", "score": "A+", "percentage": 92 },
+  { "id": 3, "name": "Bob Turner", "score": "A", "percentage": 78 },
+  { "id": 4, "name": "Eva Martinez", "score": "A+", "percentage": 95 },
+  { "id": 5, "name": "Mike Thompson", "score": "A+", "percentage": 80 },
+  { "id": 6, "name": "Lily Davis", "score": "A-", "percentage": 68 },
+  { "id": 7, "name": "David White", "score": "A+", "percentage": 91 },
+  { "id": 8, "name": "Sophie Moore", "score": "A", "percentage": 77 },
+  { "id": 9, "name": "Charlie Harris", "score": "A", "percentage": 74 },
+  { "id": 10, "name": "Emma Scott", "score": "A+", "percentage": 82 }
+]
